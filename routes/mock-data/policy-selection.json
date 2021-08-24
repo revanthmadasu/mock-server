@@ -1,0 +1,28 @@
+{
+    "data": {
+      "totalPoliciesSelected": 15,
+      "tableSelectionState": -1,
+      "tabData": {
+        "internal": {
+          "totalCount": 20,
+          "selectedCount": 0,
+          "checkType": 1
+        },
+        "all": {
+          "totalCount": 45,
+          "selectedCount": 45,
+          "checkType": 0
+        },
+        "groups": {
+            "totalCount": 20,
+            "selectedCount": 0,
+            "checkType": 0
+        }
+      }
+    },
+    "status": {
+      "type": "error || success || info",
+      "message": ""
+    },
+    "statusCode": 200
+  }
